@@ -66,7 +66,7 @@ Custom comparators are implemented for ordering Pokémon according to different 
 
 ## Testing
 
-The project includes **provided test files** used to validate the functionality of the Pokémon management system and its various components.
+The project includes provided test files used to validate the functionality of the Pokémon management system and its various components.
 
 ## Technologies
 
