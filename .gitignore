@@ -1,0 +1,15 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled Java files
+out/
+
+# Runtime-generated files
+*.ser
+
+# Other
+תיקון/
+
+# Assignment files
+*.pdf
